@@ -25,3 +25,7 @@ Precisamos desenvolver uma análise para identificar os seguintes pontos:
 margem acima de 5%)
 
 
+
+# Visualização interativa
+
+https://app.powerbi.com/view?r=eyJrIjoiMDUwZTI3N2QtNTM2NS00MTAyLTk1NDgtNTc2OGY3MzMzNTAwIiwidCI6IjJhMzIyY2YxLWM5NTktNGNhYy04ZDhmLWQ3OTY4NGMwZmRjNSJ9
